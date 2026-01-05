@@ -1,10 +1,5 @@
 # AI Text-to-Image Generator
 
-## Live Demo
-Try out the deployed application here:
-
-🚀 **Streamlit App** → (paste the deployed streamlit link here)
-
 ## Overview
 An artificial intelligence–based system that generates images from natural language text prompts.
 This project demonstrates the practical use of diffusion-based generative models to convert textual descriptions into visually meaningful images.
