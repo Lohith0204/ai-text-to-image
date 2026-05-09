@@ -29,6 +29,7 @@ AI-Text-to-Image/
 ├── requirements.txt      # Project dependencies
 ├── README.md             # Project documentation
 ├──.gitignore             # Ignore Files
+├── LICENSE
 │
 ├── ai_engine/
 │   └── generator.py      # Text-to-image generation logic
